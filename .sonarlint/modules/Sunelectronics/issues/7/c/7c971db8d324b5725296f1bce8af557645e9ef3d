@@ -1,0 +1,11 @@
+
+m
+squid:S106.";Replace this usage of System.out or System.err by a logger.(İæœ™üÿÿÿÿH³—RMAJORZ
+CODE_SMELL
+dsquid:S1135'"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH²—RINFOZ
+CODE_SMELL
+m
+squid:S106-";Replace this usage of System.out or System.err by a logger.(¾á—øÿÿÿÿHµ—RMAJORZ
+CODE_SMELL
+ˆsquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "id".(Šó–H´—RMINORZ
+CODE_SMELL

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+			
+<beans>
+	<bean id="customer" class="com.program.spring.domain.Customer">
+			<property name="id" value="1001"/>
+			<property name="name" value="sunglowsys" />
+			<property name="email" value="info@sunglowsys.com"/>
+			<property name="mobile" value="1234567"/>
+	</bean>
+</beans>

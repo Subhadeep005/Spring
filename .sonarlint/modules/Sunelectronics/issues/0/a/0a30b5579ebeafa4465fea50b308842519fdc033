@@ -1,0 +1,26 @@
+
+Tsquid:S1068"&Remove this unused "id" private field.(æ¨ç†HŠºRMAJORZ
+CODE_SMELL
+Vsquid:S1068"(Remove this unused "name" private field.(Ë¥¼H‹ºRMAJORZ
+CODE_SMELL
+Zsquid:S1068",Remove this unused "address1" private field.(ÿ®†ÔHŒºRMAJORZ
+CODE_SMELL
+_squid:S1068",Remove this unused "address2" private field.(Â€“‘ÿÿÿÿÿHºRMAJORZ
+CODE_SMELL
+Vsquid:S1068"(Remove this unused "city" private field.(“øÌàHºRMAJORZ
+CODE_SMELL
+\squid:S1068	")Remove this unused "state" private field.(µîŠ©øÿÿÿÿHºRMAJORZ
+CODE_SMELL
+^squid:S1068
+"+Remove this unused "zipcode" private field.(‚Ûõ¢ûÿÿÿÿHºRMAJORZ
+CODE_SMELL
+^squid:S1068"+Remove this unused "country" private field.(“—àÊúÿÿÿÿH‘ºRMAJORZ
+CODE_SMELL
+Xsquid:S1068"*Remove this unused "mobile" private field.(Ë—Æ¿H’ºRMAJORZ
+CODE_SMELL
+_squid:S1068",Remove this unused "latitude" private field.(£å²¨ıÿÿÿÿH“ºRMAJORZ
+CODE_SMELL
+[squid:S1068"-Remove this unused "longitude" private field.(àÍ¯¿H”ºRMAJORZ
+CODE_SMELL
+²squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹­¬šH•ºRCRITICALZ
+CODE_SMELL

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+		<!-- In case of autodetect autowiring, it is use both byType and Constructor . 
+				it gives first preference to byType so setter is required. And second
+				preference to Constructor autowiring so parameterized constructor is required 
+		 -->
+		<bean id="customer" class="com.program.spring.domain.Customer" autowire="autodetect">
+				<property name="id" value="1001" />
+				<property name="fname" value="Subhadeep" />
+				<property name="lname" value="Mallick" />
+				<property name="email" value="subha@sun.com"/>
+				<property name="mobile" value="123456678"/>
+				<!-- <constructor-arg ref="address"/> -->
+		</bean>
+		<bean id="address1" class="com.program.spring.domain.Address">
+				<property name="id" value="2001" />
+				<property name="houseNo" value="KA-501" />
+				<property name="street" value="Rupena Agrahara"/>
+				<property name="city" value="Bangalore"/>
+				<property name="state" value="KA"/>
+				<property name="zipCode" value="560068"/>
+		</bean>
+</beans>

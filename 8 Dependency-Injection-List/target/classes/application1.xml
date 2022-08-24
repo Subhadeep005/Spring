@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+		<bean id="product" class="com.program.spring.domain.Product">
+			<constructor-arg value="1001" />
+			<constructor-arg value="MacBook" />
+			<constructor-arg value="MacBook Air" />
+			<constructor-arg value="Apple" />
+			<constructor-arg value="75000" />
+			<constructor-arg>
+				<list>
+						<value>Grey</value>
+						<value>Golden</value>
+						<value>white</value>
+						<value>Blue</value>
+						<value>Red</value>
+						<value>Black</value>
+				</list>
+			</constructor-arg>
+		</bean>
+</beans>

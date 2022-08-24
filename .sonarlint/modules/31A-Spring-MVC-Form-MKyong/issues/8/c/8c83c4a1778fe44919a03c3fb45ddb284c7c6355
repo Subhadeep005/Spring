@@ -1,0 +1,11 @@
+
+Ssquid:S2068U" Remove this hard-coded password.(®°πHμ€RBLOCKERZVULNERABILITY
+Wsquid:S3398"#Move this method into "UserMapper".(Ϋ‹‘•ωÿÿÿÿHν€RMINORZ
+CODE_SMELL
+Lsquid:S1166."%Either log or rethrow this exception.(ΰήΐόHξ€RMAJORZBUG
+squid:S1488?"^Immediately return this expression instead of assigning it to the temporary variable "result".(υΪΤοHο€RMINORZ
+CODE_SMELL
+squid:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¬αΆ8ΐ‹ξÿ+Hπ€RMINORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Δ„ƒ8ΐ‹ξÿ+Hρ€RMINORZ
+CODE_SMELL

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\Eclipse Programs\Program\Sunglowsys\JAVA 8\Spring\24-First-Spring-Web-MVC-Application"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\24 First-Spring-Web-MVC-Application"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\31A-Spring-MVC-Form-MKyong"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\spring4-form-handle-example"/>
+			<item value="C:\Users\SUBHADEEP\Downloads\Compressed\spring4-form-handle-example"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.preferences.RemoteArchetypeCatalogDialog">
+		<list key="catalogUrl">
+			<item value="https://repo.maven.apache.org./maven2/archetype-catalog.xml"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Eclipse Programs"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\27 Spring-MVC-Address-Registration-Using-Form-Tag"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\16 Scope-Of-Bean-Object"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\5-Constructor-Based-DI-Null-Empty\src\main\resources\application.xml"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\2 Application-Context-IoC-Container\pom.xml"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\1 First-Spring-Application\pom.xml"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\1 First-Spring-Application"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\34-Spring-MVC-Security-Authentication-With-MySQL\src\main\resources\config\spring-security-config.xml"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\30-Spring-MVC-Form-Validation-Using-JSR-303"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\29-Spring-MVC-Form-Validation-Using-Validator-Interface"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\29Spring-MVC-Form-Validation-Using-Validator-Interface"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\26 Spring-MVC-Customer-Registration-Using-Form-Tag"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\24 First-Spring-Web-MVC-Application\src\main\webapp\WEB-INF\web.xml"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\18 Dependency-Injection-Using-Autowiring"/>
+			<item value="G:\Program\Sunglowsys\JAVA 8\Spring\Dependency-Injection-Set"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.java.techsolution.javaPractice"/>
+			<item value="com.java.techsolution.spring"/>
+		</list>
+		<list key="groupId">
+			<item value="com.java.techsolution"/>
+		</list>
+		<list key="artifactId">
+			<item value="javaPractice"/>
+			<item value="spring"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="665"/>
+		<item key="x" value="720"/>
+		<item key="y" value="72"/>
+	</section>
+</section>

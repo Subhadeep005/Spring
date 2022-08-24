@@ -1,0 +1,36 @@
+
+h
+squid:S106";Replace this usage of System.out or System.err by a logger.(¬ÇÑ³HîÇRMAJORZ
+CODE_SMELL
+h
+squid:S106$";Replace this usage of System.out or System.err by a logger.(Ù„Å…HïÇRMAJORZ
+CODE_SMELL
+m
+squid:S106";Replace this usage of System.out or System.err by a logger.(ùö¹ÛùÿÿÿÿHğÇRMAJORZ
+CODE_SMELL
+h
+squid:S106%";Replace this usage of System.out or System.err by a logger.(µæ¢ĞHñÇRMAJORZ
+CODE_SMELL
+m
+squid:S106";Replace this usage of System.out or System.err by a logger.(‰òƒıÿÿÿÿHòÇRMAJORZ
+CODE_SMELL
+m
+squid:S106";Replace this usage of System.out or System.err by a logger.(¢ë¦©ıÿÿÿÿHóÇRMAJORZ
+CODE_SMELL
+m
+squid:S106&";Replace this usage of System.out or System.err by a logger.(ÿˆøÿÿÿÿHôÇRMAJORZ
+CODE_SMELL
+h
+squid:S106(";Replace this usage of System.out or System.err by a logger.(ÌôåÇHõÇRMAJORZ
+CODE_SMELL
+hsquid:S1118	":Add a private constructor to hide the implicit public one.(½ïÄ½HöÇRMAJORZ
+CODE_SMELL
+m
+squid:S106)";Replace this usage of System.out or System.err by a logger.(•É¶êûÿÿÿÿH÷ÇRMAJORZ
+CODE_SMELL
+m
+squid:S106'";Replace this usage of System.out or System.err by a logger.(ş¯µıÿÿÿÿHøÇRMAJORZ
+CODE_SMELL
+m
+squid:S106";Replace this usage of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHùÇRMAJORZ
+CODE_SMELL

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=31-Spring-MVC-Hibernate-Intregration/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codingraja.spring.service{CustomerService.java[CustomerService" modifiers="513" timestamp="1495593896265"/>
+    <typeInfo handle="=35-Spring-MVC-Security-And-Hibernate-Integration/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codingraja.spring.dao{UserDao.java[UserDao" modifiers="513" timestamp="1496286906384"/>
+    <typeInfo handle="=Sunelectronics/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codingraja.sunelectronics.core.dao{ContactusDao.java[ContactusDao" modifiers="513" timestamp="1496803022112"/>
+    <typeInfo handle="=Sunelectronics/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codingraja.sunelectronics.core.service{ContactusService.java[ContactusService" modifiers="513" timestamp="1496803055195"/>
+    <typeInfo handle="=Sunelectronics/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codingraja.sunelectronics.order.dao{OrderDao.java[OrderDao" modifiers="513" timestamp="1497124036053"/>
+    <typeInfo handle="=Sunelectronics/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codingraja.sunelectronics.order.service{OrderService.java[OrderService" modifiers="513" timestamp="1497125559047"/>
+    <typeInfo handle="=Sunelectronics/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codingraja.sunelectronics.core.product.dao{ProductDao.java[ProductDao" modifiers="513" timestamp="1497235797288"/>
+    <typeInfo handle="=Sunelectronics/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codingraja.sunelectronics.order.dao{OrderItemDao.java[OrderItemDao" modifiers="513" timestamp="1497239001082"/>
+    <typeInfo handle="=Sunelectronics/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codingraja.sunelectronics.order.service{OrderItemService.java[OrderItemService" modifiers="513" timestamp="1497239118940"/>
+</typeInfoHistroy>

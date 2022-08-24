@@ -1,0 +1,12 @@
+
+[squid:S1481"-Remove this unused "address1" local variable.(ÆªÌÏHÌËRMINORZ
+CODE_SMELL
+msquid:S1118	":Add a private constructor to hide the implicit public one.(ÊËÈïûÿÿÿÿHÎËRMAJORZ
+CODE_SMELL
+csquid:S1854"<Remove this useless assignment to local variable "address1".(ÆªÌÏHĞËRMAJORZBUG
+isquid:S1854"=Remove this useless assignment to local variable "customer2".(­Ä§ÚùÿÿÿÿHÑËRMAJORZBUG
+hsquid:S1854"<Remove this useless assignment to local variable "address2".(â™ÂûÿÿÿÿHÏËRMAJORZBUG
+`squid:S1481"-Remove this unused "address2" local variable.(â™ÂûÿÿÿÿHÍËRMINORZ
+CODE_SMELL
+asquid:S1481".Remove this unused "customer2" local variable.(­Ä§ÚùÿÿÿÿHËËRMINORZ
+CODE_SMELL

@@ -1,0 +1,17 @@
+
+}squid:S1192y"GDefine a constant instead of duplicating this literal "Groovy" 3 times.(Ö­¬–ÿÿÿÿÿHâ€RCRITICALZ
+CODE_SMELL
+}squid:S1192y"GDefine a constant instead of duplicating this literal "Spring" 3 times.(Ö­¬–ÿÿÿÿÿHã€RCRITICALZ
+CODE_SMELL
+}squid:S1192y"GDefine a constant instead of duplicating this literal "Grails" 3 times.(Ö­¬–ÿÿÿÿÿHä€RCRITICALZ
+CODE_SMELL
+…squid:S1192R"ODefine a constant instead of duplicating this literal "users/userform" 3 times.(‰Î¨ğøÿÿÿÿHå€RCRITICALZ
+CODE_SMELL
+ˆsquid:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠüŒÖHæ€RMINORZ
+CODE_SMELL
+ˆsquid:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìòÎHç€RMINORZ
+CODE_SMELL
+squid:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò †ØûÿÿÿÿHè€RMINORZ
+CODE_SMELL
+squid:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨»ûıÿÿÿÿHé€RMINORZ
+CODE_SMELL

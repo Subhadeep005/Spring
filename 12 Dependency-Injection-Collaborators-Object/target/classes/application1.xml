@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+		<bean id="customer" class="com.program.spring.domain.Customer" >
+				<constructor-arg value="1001" />
+				<constructor-arg value="Subhadeep" />
+				<constructor-arg value="Mallick" />
+				<constructor-arg value="subha@sun.com"/>
+				<constructor-arg value="123456678"/>
+				<constructor-arg ref="address"/>
+				<!-- <constructor-arg>
+						<ref bean="address"/>
+				</constructor-arg> -->
+		</bean>
+		<bean id="address" class="com.program.spring.domain.Address">
+				<constructor-arg value="2001" />
+				<constructor-arg value="KA-501" />
+				<constructor-arg value="Rupena Agrahara"/>
+				<constructor-arg value="Bangalore"/>
+				<constructor-arg value="KA"/>
+				<constructor-arg value="560068"/>
+		</bean>
+</beans>

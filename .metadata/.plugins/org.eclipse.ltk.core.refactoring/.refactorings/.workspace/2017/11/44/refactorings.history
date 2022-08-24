@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;28 Spring-MVC-Resource-Mapping&apos; to &apos;28-Spring-MVC-Resource-Mapping&apos;" description="Rename resource &apos;28 Spring-MVC-Resource-Mapping&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/28 Spring-MVC-Resource-Mapping" name="28-Spring-MVC-Resource-Mapping" stamp="1509549575619" updateReferences="true"/>
+</session>

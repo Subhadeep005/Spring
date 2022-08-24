@@ -1,0 +1,7 @@
+
+]squid:S1948A".Make "paymentInfos" transient or serializable.(Ù€ñûÿÿÿÿH¨—RCRITICALZBUG
+gsquid:S2259Û"?NullPointerException might be thrown as 'this' is nullable here(Øì”ºHª—RMAJORZBUG
+²squid:S1186G"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áıÁ©H¬—RCRITICALZ
+CODE_SMELL
+tsquid:S1871Ü"MThis branch's code block is the same as the block for the branch on line 218.(¸®Ã'H©—RMINORZBUG
+Gsquid:S2097Ë"Add a type test to this method.(ÜÑãH«—RMINORZBUG

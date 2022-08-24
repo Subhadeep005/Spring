@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;Dependency-Injection-List/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;Constructor-Based-DI&apos;&#x0D;&#x0A;- Destination element: &apos;Dependency-Injection-List/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Constructor-Based-DI/src/main/java/com.program.spring.domain&#x0D;&#x0A;     Constructor-Based-DI/src/main/java/com.program.spring.test" description="Copy packages" destination="=Dependency-Injection-List/src\/main\/java" element1="/src\/main\/java&lt;com.program.spring.domain" element2="/src\/main\/java&lt;com.program.spring.test" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1493258786710" version="1.0"/>
+</session>

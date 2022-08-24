@@ -1,0 +1,16 @@
+
+Ύsquid:S1186\"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤λ‡ψÿÿÿÿ8‡χΚ+H —RCRITICALZ
+CODE_SMELL
+`squid:S1168<"+Return an empty collection instead of null.(¥Ήο8‡χΚ+H¦—RMAJORZ
+CODE_SMELL
+Ίsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„8‡χΚ+H΅—RCRITICALZ
+CODE_SMELL
+`squid:S11687"+Return an empty collection instead of null.(¥Ήο8‡χΚ+H¥—RMAJORZ
+CODE_SMELL
+ksquid:S1135""2Complete the task associated to this TODO comment.(» ζÿÿÿÿÿ8‡χΚ+H§—RINFOZ
+CODE_SMELL
+Xsquid:S1166R"%Either log or rethrow this exception.(±—±ÿÿÿÿÿ8‡χΚ+HΆ—RMAJORZBUG
+Ίsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²ίμ΄8‡χΚ+H¤—RCRITICALZ
+CODE_SMELL
+`squid:S1168A"+Return an empty collection instead of null.(¥Ήο8‡χΚ+H£—RMAJORZ
+CODE_SMELL

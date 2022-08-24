@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+			
+<beans>
+	<bean id="address" class="com.program.spring.domain.Address">
+		<property name="id" value="2001"/>
+			<property name="houseNo" value="H-201" />
+			<property name="street"> <null/> </property>
+			<property name="city" value="Blore"/>
+			<property name="state" value=""/>
+			<property name="zipcode" value="560068"/>
+	</bean>
+</beans>

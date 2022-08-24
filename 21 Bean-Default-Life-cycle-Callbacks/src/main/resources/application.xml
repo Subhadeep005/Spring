@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+			
+<beans default-init-method="init" default-destroy-method="destroy">
+		<bean id="customer" class="com.coadingraja.spring.domain.Customer" >
+				<property name="id" value="1001" />
+				<property name="fname" value="Subhadeep" />
+				<property name="lname" value="Mallick" />
+				<property name="email" value="subha@sun.com"/>
+				<property name="mobile" value="123456678"/>
+		</bean>
+		<bean id="address" class="com.coadingraja.spring.domain.Address" >
+				<property name="id" value="2001" />
+				<property name="houseNo" value="KA-501" />
+				<property name="street" value="Roopena" />
+				<property name="city" value="Bangaluru"/>
+				<property name="state" value="KA"/>
+				<property name="zipcode" value="123456"/>
+		</bean>
+</beans>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="catalogService"/>
+		<item key="casesensitive" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="wrap" value="true"/>
+		<item key="wholeword" value="false"/>
+		<list key="findhistory">
+			<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;"/>
+			<item value="productService"/>
+			<item value="productDao"/>
+			<item value="src="/>
+			<item value="src=&quot;${resourceUrl }"/>
+			<item value="srs=&quot;${resourceUrl }/images"/>
+			<item value="src=&quot;images"/>
+			<item value="href=&quot;product.html&quot;"/>
+			<item value="href=&quot;${productDetailPageUrl}&quot;"/>
+		</list>
+		<list key="replacehistory">
+			<item value="catalogService"/>
+			<item value="catalogDao"/>
+			<item value="src=&quot;${resourceUrl }&quot;"/>
+			<item value="src=&quot;${resourceUrl }/images"/>
+			<item value="srs=&quot;${resourceUrl }/images"/>
+			<item value="href=&quot;${productDetailPageUrl}&quot;"/>
+			<item value="src=&quot;${resourceUrl}/images"/>
+			<item value="href=&quot;${productListingPageUrl}&quot;"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_WIDTH" value="414"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_X_ORIGIN" value="554"/>
+		<item key="DIALOG_Y_ORIGIN" value="134"/>
+	</section>
+</section>

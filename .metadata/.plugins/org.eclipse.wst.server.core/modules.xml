@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.j2ee.server:24-First-Spring-Web-MVC-Application" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:Sunelectronics" serverId="Tomcat v7.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:25 Spring-MVC-Multiple-Request-Handling" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:24 First-Spring-Web-MVC-Application"/>
+</modules>

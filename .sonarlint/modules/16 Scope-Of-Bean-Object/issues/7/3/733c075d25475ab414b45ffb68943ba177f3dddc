@@ -1,0 +1,31 @@
+
+\squid:S1481".Remove this unused "customer1" local variable.(¾†‡¸H¼ÌRMINORZ
+CODE_SMELL
+psquid:S1854"=Remove this useless assignment to local variable "customer2".(­Ä§Úùÿÿÿÿ8´ûÒËŞ+HäÌRMAJORZBUG
+hsquid:S1481".Remove this unused "customer2" local variable.(­Ä§Úùÿÿÿÿ8´ûÒËŞ+HÕÌRMINORZ
+CODE_SMELL
+hsquid:S1118
+":Add a private constructor to hide the implicit public one.(–Ş—·HÅÌRMAJORZ
+CODE_SMELL
+dsquid:S1854"=Remove this useless assignment to local variable "customer1".(¾†‡¸HÎÌRMAJORZBUG
+csquid:S1481".Remove this unused "customer3" local variable.(ğ¹ÂÏ8¾ÙËŞ+H‰ÍRMINORZ
+CODE_SMELL
+csquid:S1481".Remove this unused "customer4" local variable.(´ĞÀó8¾ÙËŞ+HŠÍRMINORZ
+CODE_SMELL
+`squid:S1481"+Remove this unused "admin1" local variable.(ãéÖÓ8¾ÙËŞ+H‹ÍRMINORZ
+CODE_SMELL
+esquid:S1481"+Remove this unused "admin2" local variable.(¢õ‚‚øÿÿÿÿ8¾ÙËŞ+HŒÍRMINORZ
+CODE_SMELL
+`squid:S1481"+Remove this unused "admin3" local variable.(œ«Â¬8¾ÙËŞ+HÍRMINORZ
+CODE_SMELL
+esquid:S1481"+Remove this unused "admin4" local variable.(ş›Ğÿÿÿÿÿ8¾ÙËŞ+HÍRMINORZ
+CODE_SMELL
+asquid:S1481",Remove this unused "address" local variable.(Ò°è8¾ÙËŞ+HÍRMINORZ
+CODE_SMELL
+isquid:S1854";Remove this useless assignment to local variable "address".(Ò°è8¾ÙËŞ+HÍRMAJORZBUG
+msquid:S1854":Remove this useless assignment to local variable "admin4".(ş›Ğÿÿÿÿÿ8¾ÙËŞ+H‘ÍRMAJORZBUG
+hsquid:S1854":Remove this useless assignment to local variable "admin3".(œ«Â¬8¾ÙËŞ+H’ÍRMAJORZBUG
+msquid:S1854":Remove this useless assignment to local variable "admin2".(¢õ‚‚øÿÿÿÿ8¾ÙËŞ+H“ÍRMAJORZBUG
+hsquid:S1854":Remove this useless assignment to local variable "admin1".(ãéÖÓ8¾ÙËŞ+H”ÍRMAJORZBUG
+ksquid:S1854"=Remove this useless assignment to local variable "customer4".(´ĞÀó8¾ÙËŞ+H•ÍRMAJORZBUG
+ksquid:S1854"=Remove this useless assignment to local variable "customer3".(ğ¹ÂÏ8¾ÙËŞ+H–ÍRMAJORZBUG

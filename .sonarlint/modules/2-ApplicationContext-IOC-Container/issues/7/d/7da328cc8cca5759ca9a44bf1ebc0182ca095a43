@@ -1,0 +1,18 @@
+
+h
+squid:S106";Replace this usage of System.out or System.err by a logger.(ö¡¹êHòRMAJORZ
+CODE_SMELL
+dsquid:S1854"=Remove this useless assignment to local variable "customer1".(üˆÖäHòRMAJORZBUG
+\squid:S1481".Remove this unused "customer1" local variable.(üˆÖäHŸòRMINORZ
+CODE_SMELL
+m
+squid:S106";Replace this usage of System.out or System.err by a logger.(ŒÙà¯üÿÿÿÿH òRMAJORZ
+CODE_SMELL
+h
+squid:S106";Replace this usage of System.out or System.err by a logger.(í¸”™H¡òRMAJORZ
+CODE_SMELL
+hsquid:S1118":Add a private constructor to hide the implicit public one.(²êÓìH¢òRMAJORZ
+CODE_SMELL
+h
+squid:S106";Replace this usage of System.out or System.err by a logger.(ò¢ûøH£òRMAJORZ
+CODE_SMELL

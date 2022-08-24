@@ -1,0 +1,6 @@
+
+Ysquid:S2131&"Use "Integer.toString" instead.(‹Î³ƒÿÿÿÿÿ8ó×ˆöÙ+HˆÇRMAJORZ
+CODE_SMELL
+t
+squid:S106	";Replace this usage of System.out or System.err by a logger.(Ä¸‚´þÿÿÿÿ8šÊ…öÙ+H‰ÇRMAJORZ
+CODE_SMELL

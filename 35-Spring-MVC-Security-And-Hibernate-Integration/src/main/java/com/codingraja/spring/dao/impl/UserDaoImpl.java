@@ -1,0 +1,28 @@
+package com.codingraja.spring.dao.impl;
+
+import org.hibernate.SessionFactory;
+import org.hibernate.criterion.Restrictions;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.codingraja.spring.dao.UserDao;
+import com.codingraja.spring.domain.User;
+
+@Repository("userDao")
+public class UserDaoImpl implements UserDao {
+
+	@Autowired
+	private SessionFactory sessionFactory;
+
+	public UserDaoImpl(SessionFactory sessionFactory) {
+		super();
+		this.sessionFactory = sessionFactory;
+	}
+
+	public User findUserByUsername(String username) {
+		System.out.println("findUserByUsername");
+		return (User) this.sessionFactory.getCurrentSession().createCriteria(User.class)
+				.add(Restrictions.eq("username", username)).list().get(0);
+	}
+
+}
